@@ -4,8 +4,8 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #ebebeb;
-	padding-top: 80px;
+	background-color: #636363;
+	padding-top: 50px;
 }
 
 /*Home*/
@@ -19,7 +19,7 @@ body{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
+	
 }
 
 /*Cards*/
@@ -31,8 +31,9 @@ img.nav-bar-img{
 }
 
 .navbar{
-	background-color: #fff;
+	background-color: #202020;
 
+	
 }
 
 a.navbar-brand{
@@ -49,7 +50,7 @@ a.navbar-brand{
 
 	a.float-nav-link{
 		font-family: 'Lato', Sans-Serif;
-		color: #595959;
+		color: #FFFFFF;
 		font-size: 14px;
 		font-weight: 600;
 		text-align: left;
@@ -66,6 +67,8 @@ img{
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Montserrat', Sans-Serif;
+	color: #FFF;
+	
 	margin-bottom: 20px;
 }
 	h1.welcome-special{
@@ -79,18 +82,18 @@ h1, h2, h3, h4, h5, h6 {
 
 	h3{
 		text-transform: uppercase;
-		color: #a49727;
 		letter-spacing: -0.5px;
 	}
 
 p, li, span, a {
 	font-family: 'Lato', Sans-Serif;
+	color: antiquewhite;
 	text-align: justify;
 	font-weight: 300;
 }
 
 	p{
-		color: #494949;
+		
 		line-height: 30px;
 		margin-bottom: 25px;
 	}
@@ -117,12 +120,11 @@ span.img-caption{
 	border: 3px solid #000;
 	font-family:'Montserrat', Sans-Serif;
 	font-size: 15px;
-	color: #000;
 	text-transform: uppercase;
 }
 
 .welcome-button:hover{
-	background-color: #000;
+	backgrund-color: #000;
 	border-color: #000;
 }
 
