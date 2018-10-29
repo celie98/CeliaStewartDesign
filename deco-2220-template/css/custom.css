@@ -31,18 +31,20 @@ img.nav-bar-img{
 }
 
 .navbar{
-	background-color: #202020;
+	background-color: #FFFFFF;
 
 	
 }
 
 a.navbar-brand{
 	font-family:'Montserrat', Sans-Serif;
-	font-size: 
+	
+	
 }
 
 /*Floating Nav*/
 .floating-nav{
+	
 	position: fixed;
 	margin-top: 50px;
 	border-left: 1px solid #727272;
