@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 		letter-spacing: -0.5px;
 	}
 
-p, li, span, a {
+p, li, a {
 	font-family: 'Lato', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
@@ -93,11 +93,6 @@ p, li, span, a {
 		margin-bottom: 25px;
 	}
 
-span.img-caption{
-	display: block;
-	font-size: 12px;
-	font-weight: 500;
-	padding: 10px 0px 10px 0px;
 }
 
 /*Container/class etc Override Rules*/
@@ -119,7 +114,7 @@ span.img-caption{
 	text-transform: uppercase;
 }
 
-.welcome-button:hover{
+.welcome-button-hover{
 	background-color: #000;
 	border-color: #000;
 }
