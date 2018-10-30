@@ -1,10 +1,7 @@
-/*This Custom CSS file has not been structured in any particular order. 
-
-Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #ebebeb;
+	background-color: #fff;
 	padding-top: 80px;
 }
 
@@ -90,7 +87,7 @@ p, li, span, a {
 }
 
 	p{
-		color: #494949;
+		color: #fff;
 		line-height: 30px;
 		margin-bottom: 25px;
 	}
