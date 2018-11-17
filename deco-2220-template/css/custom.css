@@ -1,7 +1,7 @@
 
 
 body{
-	background-color: #888888;
+	background-color: #efefef;
 	padding-top: 80px;
 }
 
@@ -46,7 +46,7 @@ a.navbar-brand{
 
 	a.float-nav-link{
 		font-family: 'Lato', Sans-Serif;
-		color: #595959;
+		color: #3d3d3d;
 		font-size: 14px;
 		font-weight: 600;
 		text-align: left;
@@ -64,7 +64,7 @@ img{
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Montserrat', Sans-Serif;
 	margin-bottom: 20px;
-	color: antiquewhite
+	color: #383838;
 }
 	h1.welcome-special{
 		font-size: 90px;
@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
 
 	h3{
 		text-transform: uppercase;
-		color: #F6EF78;
+		color: #3d81ff;
 		letter-spacing: -0.5px;
 	}
 
@@ -88,7 +88,7 @@ p, li, a {
 }
 
 	p, li {
-		color: #fff;
+		color: #383838s;
 		line-height: 30px;
 		margin-bottom: 25px;
 	}
